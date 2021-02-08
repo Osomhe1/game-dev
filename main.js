@@ -10,11 +10,7 @@ const GAME_HEIGHT = 700;
 
 
 
-// ctx.fillStyle = '#f00';
-// ctx.fillRect(10, 5, 80, 50);
 
-// ctx.fillStyle = '#00f';
-// ctx.fillRect(100s, 70, 40, 20);
 
 
 
